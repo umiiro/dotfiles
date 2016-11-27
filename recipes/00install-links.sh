@@ -1,8 +1,8 @@
 #!/bin/bash
 
-ln -s .dotfiles/.bash_profile $HOME/.bash_profile
-ln -s .dotfiles/.editorconfig $HOME/.editorconfig
-ln -s .dotfiles/.gemrc $HOME/.gemrc
-ln -s .dotfiles/.vim/plugins.toml $HOME/plugins.toml
-ln -s .dotfiles/.vimrc $HOME/.vimrc
+ln -fs .dotfiles/.bash_profile $HOME/.bash_profile
+ln -fs .dotfiles/.editorconfig $HOME/.editorconfig
+ln -fs .dotfiles/.gemrc $HOME/.gemrc
+ln -fs .dotfiles/.vim/plugins.toml $HOME/plugins.toml
+ln -fs .dotfiles/.vimrc $HOME/.vimrc
 
