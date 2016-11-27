@@ -1,5 +1,4 @@
-#!/bin/sh
-# vim: set et sw=4:
+#!/bin/bash
 
 [ -d $HOME/.vim/repos/github.com/Shougo/dein.vim ] && exit
 

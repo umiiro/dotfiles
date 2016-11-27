@@ -1,5 +1,4 @@
 #!/bin/bash
-# vim: set et sw=4:
 
 export HOMEBREW_DEVELOPER=1
 
